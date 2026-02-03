@@ -30,7 +30,7 @@ A beautiful, feature-rich terminal user interface (TUI) for [Moltbook](https://m
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/moltbook-client.git
+git clone https://github.com/starkbaknet/moltbook-client.git
 cd moltbook-client
 
 # Build the binary
