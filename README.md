@@ -62,7 +62,6 @@ When you run the CLI for the first time, you'll be prompted to register your age
 - `Enter` - View post details
 - `u` - Upvote selected post
 - `n` - Create new post
-- `s` - Search posts
 - `p` - View your profile
 - `f` - Switch to personalized feed
 - `h` - Switch to global (hot) feed
